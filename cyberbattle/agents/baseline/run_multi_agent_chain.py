@@ -14,7 +14,7 @@ import random
 import cyberbattle.agents.baseline.learner as learner
 import matplotlib.pyplot as plt
 import os
-os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+# os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 # os.environ["CUBLAS_WORKSPACE_CONFIG"]=":4096:8"
 
 
