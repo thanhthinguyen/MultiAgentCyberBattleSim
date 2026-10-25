@@ -7,7 +7,7 @@ import yaml
 
 from cyberbattle.simulation import model, model_test, actions_test
 
-
+# main function
 def main() -> None:
     """Simple environment sandbox"""
 
