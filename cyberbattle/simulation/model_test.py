@@ -96,7 +96,7 @@ def check_reserializing(object_to_serialize: object) -> None:
     re_serialized = yaml.dump(deserialized)
     assert (serialized == re_serialized)
 
-
+# a test function
 def test_yaml_serialization_environment() -> None:
     """Test Yaml serialization and deserialization for type Environment"""
     network = model.assign_random_labels(nx.cubical_graph())
