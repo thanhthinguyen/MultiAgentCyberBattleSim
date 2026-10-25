@@ -22,7 +22,6 @@ This project reuses and extends these core components to provide additional func
 - Extension of the CyberBattleSim simulation framework.
 - Support for **multiple cyber agents** operating within the same simulated environment.
 - Multi-agent interaction and decision-making.
-- Support for research into attacker–defender and agent–agent interactions.
 - Suitable for experiments involving reinforcement learning and multi-agent reinforcement learning.
 - Provides a basis for evaluating different agent behaviours and strategies in simulated cyber environments.
 
@@ -81,8 +80,6 @@ Examples can be found in the `examples/` directory.
 MultiAgentCyberBattleSim is intended primarily as a **research and experimentation framework**. Potential applications include:
 
 - Multi-agent reinforcement learning for cyber security
-- Autonomous cyber defence
-- Attacker–defender simulations
 - Cooperative and competitive agent behaviours
 - Cyber security decision-making
 - Exploration–exploitation studies
